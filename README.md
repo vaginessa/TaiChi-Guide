@@ -1,7 +1,5 @@
 # 太极·Magisk 不完全漫游指北
 
-[MoonBegonia](https://t.me/MoonBegonia) on January 22, 2019
-
 [ENGLISH GUIDE](https://github.com/hh2333/EXposed-Guide/blob/master/ENGLISH%20GUIDE.md)
 
 太极·Magisk 今天开启了大规模内测，只需要填写问卷即可参加，在这里整理相关内容。

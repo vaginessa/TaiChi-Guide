@@ -1,6 +1,6 @@
 # The Hitchhiker's Guide to Magisk Taichi
 
-[中文指南](https://gist.github.com/HaoyeTang/2790b7cd4dc127153301144e9e344768)
+[中文指南](https://github.com/hh2333/EXposed-Guide/)
 
 **Please read through the documentations carefully. Modding can be risky, proceed with extreme caution. The hardware can be valued where as the data are priceless.**
 
